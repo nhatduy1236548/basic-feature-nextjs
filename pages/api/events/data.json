@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Summer Night DJ Party",
+      "slug": "summer-night-dj-party",
+      "venue": "Club 01",
+      "address": "123 Main St, New York, NY",
+      "performers": ["DJ A", "DJ B"],
+      "date": "2023-05-12",
+      "time": "22:00",
+      "description": "A night full of great music and amazing DJs to kick off the summer season.",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Electronic Music Festival",
+      "slug": "electronic-music-festival",
+      "venue": "Beach Resort",
+      "address": "456 Ocean Dr, Miami, FL",
+      "performers": ["DJ C", "DJ D", "DJ E"],
+      "date": "2023-05-20",
+      "time": "16:00",
+      "description": "Experience the best of electronic music with top DJs and stunning visuals.",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "DJ Battle Royale",
+      "slug": "dj-battle-royale",
+      "venue": "Dance Hall",
+      "address": "789 Elm St, Los Angeles, CA",
+      "performers": ["DJ F", "DJ G"],
+      "date": "2023-06-01",
+      "time": "21:00",
+      "description": "Witness an epic battle between top DJs showcasing their mixing skills.",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "House Music Night",
+      "slug": "house-music-night",
+      "venue": "The Underground",
+      "address": "321 Pine St, Chicago, IL",
+      "performers": ["DJ H", "DJ I"],
+      "date": "2023-06-10",
+      "time": "23:00",
+      "description": "Get ready to dance all night to the best house music beats from renowned DJs.",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Trance Energy",
+      "slug": "trance-energy",
+      "venue": "Festival Park",
+      "address": "654 River Rd, Austin, TX",
+      "performers": ["DJ J", "DJ K", "DJ L"],
+      "date": "2023-06-18",
+      "time": "15:00",
+      "description": "Join us for an unforgettable day filled with the most mesmerizing trance music.",
+      "image": "/images/sample/event5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Techno Takeover",
+      "slug": "techno-takeover",
+      "venue": "Warehouse District",
+      "address": "987 Market St, San Francisco, CA",
+      "performers": ["DJ M", "DJ N"],
+      "date": "2023-07-02",
+      "time": "22:00",
+      "description": "Feel the powerful beats of techno music as talented DJs take over the night.",
+      "image": "/images/sample/event6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Drum and Bass Madness",
+      "slug": "drum-and-bass-madness",
+      "venue": "Bassline Arena",
+      "address": "246 Club St, Seattle, WA",
+      "performers": ["DJ O", "DJ P"],
+      "date": "2023-07-15",
+      "time": "21:00",
+      "description": "Experience the intense energy of drum and bass with skilled DJs and an electrifying atmosphere.",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "EDM Extravaganza",
+      "slug": "edm-extravaganza",
+      "venue": "Electro City",
+      "address": "135 Party Ave, Las Vegas, NV",
+      "performers": ["DJ Q", "DJ R", "DJ S"],
+      "date": "2023-07-29",
+      "time": "20:00",
+      "description": "Dance the night away at this massive EDM event featuring an incredible lineup of DJs.",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Retro DJ Night",
+      "slug": "retro-dj-night",
+      "venue": "Disco Palace",
+      "address": "864 Memory Ln, Boston, MA",
+      "performers": ["DJ T", "DJ U"],
+      "date": "2023-08-12",
+      "time": "21:00",
+      "description": "Travel back in time with classic dance hits and groovy tunes at this retro-themed DJ event.",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "International DJ Showcase",
+      "slug": "international-dj-showcase",
+      "venue": "Global Music Hall",
+      "address": "579 World St, Atlanta, GA",
+      "performers": ["DJ V", "DJ W", "DJ X"],
+      "date": "2023-08-26",
+      "time": "19:00",
+      "description": "Discover the sounds of the world as international DJs come together to share their unique styles.",
+      "image": "/images/sample/event4.jpg"
+    }
+  ]
+}
